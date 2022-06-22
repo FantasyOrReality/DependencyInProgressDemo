@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Door
+  - Object
+  - Background
+  - Reality
+  - Fantasy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Characters
+  - Water
+  - UI
+  - Background
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: RealityDimension
+    uniqueID: 1026665001
+    locked: 0
+  - name: RealityCharacters
+    uniqueID: 1684916633
+    locked: 0
+  - name: FantasyDimension
+    uniqueID: 3174024037
+    locked: 0
+  - name: FantasyCharacters
+    uniqueID: 3689363099
+    locked: 0
+  - name: CurrentDimension
+    uniqueID: 3622869411
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 139533457
+    locked: 0
